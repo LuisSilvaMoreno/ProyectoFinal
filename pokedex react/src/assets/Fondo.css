@@ -1,0 +1,8 @@
+/* App.css */
+body {
+    background-image: url('ruta/a/tu/imagen.jpg');
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center center; /* Centra la imagen */
+  }
+  
